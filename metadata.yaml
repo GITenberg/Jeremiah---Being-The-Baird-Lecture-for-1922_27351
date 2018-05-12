@@ -1,0 +1,29 @@
+_repo: Jeremiah---Being-The-Baird-Lecture-for-1922_27351
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, George Adam
+    birthdate: 1856
+    deathdate: 1942
+    gutenberg_agent_id: '5016'
+    url: http://www.gutenberg.org/2009/agents/5016
+    wikipedia: http://en.wikipedia.org/wiki/George_Adam_Smith
+description: ''
+gutenberg_issued: '2008-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27351'
+language: en
+publication_note: 'New York : George H. Doran Company,  1924'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jeremiah (Biblical prophet)'
+- !lcsh 'Bible. Jeremiah -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+title: 'Jeremiah : Being The Baird Lecture for 1922'
+url: http://www.gutenberg.org/ebooks/27351
